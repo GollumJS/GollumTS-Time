@@ -1,0 +1,17 @@
+
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"module": "commonjs",
+		"removeComments": true,
+		"sourceMap": true,
+		"lib": [
+			"es5",
+			"es2015.Promise",
+			"DOM"
+		]
+	},
+	"files": [
+		"index.ts"
+	]
+}
